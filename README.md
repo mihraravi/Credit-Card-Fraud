@@ -1,4 +1,4 @@
-# Fraud Detection Dataset - README
+#  Credit-card-Fraud Detection Dataset - README
 
 ## Dataset Overview
 This dataset contains simulated credit card transactions designed to model real-world spending behaviors, including fraudulent activities. It can be used for building fraud detection models, analyzing spending patterns, and exploring anomaly detection techniques.
